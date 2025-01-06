@@ -1,0 +1,10 @@
+date,product_id,product_name,sales_amount,customer_id
+2025-01-01,101,Product A,200,1
+2025-01-02,102,Product B,150,2
+2025-02-01,101,Product A,300,3
+2025-02-15,103,Product C,400,4
+2025-03-05,104,Product D,450,5
+2025-03-20,102,Product B,350,6
+2025-04-10,103,Product C,500,7
+2025-04-25,101,Product A,400,8
+
